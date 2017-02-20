@@ -12,7 +12,7 @@ int main() {
 	cout << "This iPhone was made by Apple Company in " << Ps4::showPublishmentYear() << endl << endl;
 	// Constructor
 	Device myDevice(false, false);
-	Console myMobile("Android", 10, 4, 0);
+	Mobile myMobile("Apple", 10, 4, 0);
 	iphone myiphone(2016);
 
 	// Default construtor
