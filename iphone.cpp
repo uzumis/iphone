@@ -9,7 +9,7 @@ iphone::iphone() {
 	setYear(2017);
 	setupMusicList(0);
 };
-iphone::iphone(int year, int gameCount) {
+iphone::iphone(int year, int musicCount) {
 	setYear(year);
 	setupMusicList(musicCount);
 };
