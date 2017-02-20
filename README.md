@@ -1,2 +1,5 @@
 # iphone
-project for college class. 
+C++
+project for college class.
+
+Need assistance for creating a  functional iTunes Library. 
