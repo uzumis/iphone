@@ -23,7 +23,7 @@ Music::Music(const string &name) {
 
 /* // Destructor */
 /* Music::~Music() { */
-/* 	cout << "Earasing " << (*this) << endl; */
+/* 	cout << "Cleaning Up " << (*this) << endl; */
 /* } */
 
 const Music& Music::operator=(const Music &right) {
